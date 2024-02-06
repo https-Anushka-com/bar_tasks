@@ -25,7 +25,7 @@ int mult(x,y)
 
 int sub(x,y)
 {
-     diff=x-y;
+     int diff=x-y;
     return diff;
 }
 
